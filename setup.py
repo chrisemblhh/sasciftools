@@ -21,6 +21,10 @@ setup(
     name='sasciftools',
     description='Package for reading and writing files in sascif format',
     url='https://github.com/emblsaxs/sasciftools',
+    author='Mikhail Kachala, EMBL BioSAXS group',
+    author_email='atsas@embl-hamburg.de',
+    license='Apache License, Version 2.0',
+    version='0.0.1',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Environment :: Console',
